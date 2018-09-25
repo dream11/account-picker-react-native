@@ -1,13 +1,13 @@
 
-# react-native-account-picker-react-native
+# account-picker-react-native
 
 ## Getting started
 
-`$ npm install react-native-account-picker-react-native --save`
+`$ npm install account-picker-react-native --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-account-picker-react-native`
+`$ react-native link account-picker-react-native`
 
 ### Manual installation
 
