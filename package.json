@@ -11,7 +11,7 @@
   ],
   "author": "Rahul Panchal",
   "license": "MIT",
-  "homepage": "https://github.com/dream11/RNAccountPickerReactNative",
+  "homepage": "https://github.com/dream11/account-picker-react-native",
   "peerDependencies": {
     "react-native": ">=0.55.4",
     "react-native-windows": "0.41.0-rc.1"

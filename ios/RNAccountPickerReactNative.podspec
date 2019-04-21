@@ -14,8 +14,8 @@ Pod::Spec.new do |s|
   s.license      = package["license"]
   s.author             = { "author" => package["author"] }
   s.platform     = :ios, "9.0"
-  s.source       = { :git => "https://github.com/dream11/RNAccountPickerReactNative.git", :tag => "#{s.version}" }
-  s.source_files  = "RNAccountPickerReactNative/**/*.{h,m}"
+  s.source       = { :git => "https://github.com/dream11/account-picker-react-native.git", :tag => "#{s.version}" }
+  s.source_files  = "*.{h,m}"
   s.requires_arc = true
 
 
